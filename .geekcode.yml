@@ -1,0 +1,5 @@
+workspace:
+  - image: enterprise-tdengine-playground
+  - app: terminal
+tasks:
+  - init: service taosd start
